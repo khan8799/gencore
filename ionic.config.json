@@ -1,0 +1,7 @@
+{
+  "name": "Gencore",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
