@@ -1,8 +1,8 @@
 {
-  "name": "Gencore",
+  "name": "gencore-app",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "https://ionicframework.com/",
+  "author": "Future Tech Data LLP",
+  "homepage": "https://ftechdata.com/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
